@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming-amico.svg" width="420" alt="coding"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt="Coding"/>
 
 <br><br>
 
@@ -81,6 +81,15 @@ const parth = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma9259&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🎯 Current Goals
+
+🚀 Becoming a Better Full Stack Developer  
+💻 Building Modern Web Projects  
+📚 Learning New Technologies Daily  
+⚡ Improving Frontend & Backend Skills
 
 ---
 
