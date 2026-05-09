@@ -7,6 +7,8 @@
 <br><br>
 
 <img src="https://raw.githubusercontent.com/rahul-jha98/README/main/techstack.gif" width="450"/>
+<img src="https://komarev.com/ghpvc/?username=parthsharma9259&style=for-the-badge&color=00F7FF"/>
+
 
 <br><br>
 
