@@ -79,6 +79,7 @@ const parth = {
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma9259&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🎓 Student • 💻 Full Stack Developer • 🌐 Web Developer • 🚀 Tech Enthusiast
 
 </div>
 
