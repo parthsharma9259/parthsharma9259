@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/parthsharma9259/parthsharma9259/main/coding.png" width="420" alt="Coding"/>
+<img src="https://ouch-cdn2.icons8.com/f6J3uQ7i3u0H9i4Xw2M5tXJ6n4jM8l5G/coding-illustration.png" width="420"/>
 
 <br><br>
 
@@ -29,13 +29,13 @@
 ```javascript
 const parth = {
     name: "Parth Sharma",
-    location: "India 🇮🇳",
     role: "Student + Full Stack Developer",
+    location: "India 🇮🇳",
 
     currentFocus: [
         "Full Stack Development",
-        "Frontend & Backend",
-        "Modern Web Applications"
+        "Modern Web Applications",
+        "Frontend & Backend"
     ],
 
     skills: {
@@ -44,15 +44,7 @@ const parth = {
         database: ["MongoDB", "MySQL"]
     },
 
-    currentlyLearning: [
-        "Advanced Full Stack",
-        "Backend Optimization",
-        "System Design"
-    ],
-
-    philosophy: "Code • Learn • Build 🚀",
-
-    funFact: "Turning ideas into websites ✨"
+    philosophy: "Code • Learn • Build 🚀"
 };
 ```
 
@@ -62,7 +54,7 @@ const parth = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 
 </div>
 
@@ -84,19 +76,8 @@ const parth = {
 
 ---
 
-# 🎯 Current Goals
-
-🚀 Becoming a Better Full Stack Developer  
-💻 Building Modern Web Projects  
-📚 Learning New Technologies Daily  
-⚡ Improving Frontend & Backend Skills
-
----
-
 <div align="center">
 
-### ⚡ *"Stay focused. Keep building. The best is yet to come."* 🚀
-
-<img src="https://komarev.com/ghpvc/?username=parthsharma9259&style=for-the-badge&color=00F7FF"/>
+### ⚡ *"Stay focused. Keep building."* 🚀
 
 </div>
