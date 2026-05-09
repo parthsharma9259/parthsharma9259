@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="./coding.png" width="420" alt="Coding"/>
+<img src="https://raw.githubusercontent.com/parthsharma9259/parthsharma9259/main/coding.png" width="420" alt="Coding"/>
 
 <br><br>
 
@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-0ea5e9?style=for-the-badge"/>
-
+  
   <img src="https://img.shields.io/badge/Learning-New_Technologies-6366f1?style=for-the-badge"/>
-
+  
   <img src="https://img.shields.io/badge/Goal-Building_Cool_Projects-8b5cf6?style=for-the-badge"/>
 </p>
 
