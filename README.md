@@ -97,6 +97,5 @@ const parth = {
 
 ### ⚡ *"Stay focused. Keep building. The best is yet to come."* 🚀
 
-<img src="https://komarev.com/ghpvc/?username=parthsharma9259&style=for-the-badge&color=00F7FF"/>
-
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
 </div>
