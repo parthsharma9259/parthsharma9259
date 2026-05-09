@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt="Coding"/>
+<img src="./coding.png" width="420" alt="Coding"/>
 
 <br><br>
 
@@ -97,5 +97,6 @@ const parth = {
 
 ### ⚡ *"Stay focused. Keep building. The best is yet to come."* 🚀
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+<img src="https://komarev.com/ghpvc/?username=parthsharma9259&style=for-the-badge&color=00F7FF"/>
+
 </div>
